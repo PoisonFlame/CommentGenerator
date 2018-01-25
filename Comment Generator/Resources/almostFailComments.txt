@@ -1,0 +1,6 @@
+#student has been having trouble with the course. With a mark of #grade% in this course, lots of improvements need to be made. Good luck in the future.
+#student has been struggling to keep up with their class in terms of their grade. Passing with a score of #grade% in this course is a worrying trend and should be looked further into. Good luck next term.
+#student has passed this course with a #grade%! Although #student passed, I suggest reviewing materials again for a better understanding. I wish #student the best of luck next term.
+#student has been having trouble with the course. With a mark of #grade% in this course, lots of ameliorations need to be made. Good fortuity in the future.
+#student has been struggling to keep up with their class in terms of their grade. Passing with a score of #grade% in this course is a worrying trend and should be looked further into. Good fortuity next term.
+#student has passed this course with a #grade%! Albeit #student passed, I suggest reviewing materials again for a better understanding. I optate #student the best of fortuity next term.

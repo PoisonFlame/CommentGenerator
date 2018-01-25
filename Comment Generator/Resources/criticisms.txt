@@ -1,0 +1,24 @@
+---distracting---
+#student easily gets distracted during class.
+#student doesn't show effort towards the course and distracts others.
+#student has trouble concentrating on their work and is distracting to others.
+#student has concentration issues in class which should be worked on.
+---end distracting---
+---seekHelp---
+#student has trouble with assignments and should seek help when needed.
+#student needs to talk with myself or look towards Peer Tutoring for help in understanding concepts covered in class.
+#student needs help with understanding concepts and should seek a teacher for more help.
+#student has a weak understanding of topics pertaining to this course. I suggest #student to seek for more information.
+---end seekHelp---
+---payAttention---
+#student doesn't pay attention in class.
+#student doesn't grasp concepts due to not paying attention during class.
+#student is very distracting and has trouble paying attention to myself in class.
+#student doesn't show full attention and has trouble conprehending due to the poor attention span.
+---end payAttention---
+---lateAssignments---
+#student hands in assignments very late.
+#student tends to hand in assignments very late and sometimes doesn't hand in assignments.
+#student needs to work towards handing in assignments on time completed.
+#student is unorganized as they don't hand in their assignments on time and always receive a late penalty affecting their grade.
+---end lateAssignments---
